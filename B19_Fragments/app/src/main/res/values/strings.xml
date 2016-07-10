@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">B19_Fragments</string>
+    <string name="fragment1String">This is Fragment 1</string>
+    <string name="fragment2String">This is Fragment 2</string>
+    <string name="replaceString">Replace Fragment</string>
+</resources>
